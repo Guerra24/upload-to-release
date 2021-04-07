@@ -9,7 +9,7 @@ jobs:
   build:
     # ...
     steps:
-      - uses: Shopify/upload-to-release@v1
+      - uses: Guerra24/upload-to-release@v1
         with:
           name: my-artifact
           path: build/a.out
@@ -23,4 +23,4 @@ This was inspired by:
 
 - https://github.com/actions/javascript-template
 - https://github.com/JasonEtco/upload-to-release
-
+- https://github.com/Shopify/upload-to-release

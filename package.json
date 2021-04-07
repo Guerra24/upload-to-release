@@ -5,17 +5,17 @@
   "main": "lib/main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/upload-to-release.git"
+    "url": "git+https://github.com/Guerra24/upload-to-release.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "Shopify",
+  "author": "Guerra24",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/github": "^1.1.0"
+    "@actions/github": "^4.0.0"
   }
 }
